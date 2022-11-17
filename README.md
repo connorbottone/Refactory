@@ -52,4 +52,4 @@ Redirect to your specific area of intrest by clicking one of the three optiions 
 (email at : connorbottone@gmail.com)
 
 ## Screenshot
-
+![Finished website](./assets/images/connorbottone.png)
